@@ -1,10 +1,10 @@
-# 🚗 Sistema de Estacionamento com Controle de Veículos e Tarifas
+# Sistema de Estacionamento com Controle de Veículos e Tarifas
 
 Projeto desenvolvido em **HTML, CSS e JavaScript puro**, simulando um sistema de estacionamento com cadastro de veículos, listagem, busca e cálculo automático de taxas com base no tempo estacionado.
 
 ---
 
-## 📌 Funcionalidades
+## Funcionalidades
 
 - Cadastro de veículos (placa, modelo e cor)
 - Listagem de veículos estacionados
@@ -18,7 +18,7 @@ Projeto desenvolvido em **HTML, CSS e JavaScript puro**, simulando um sistema de
 
 ---
 
-## 💻 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ Projeto desenvolvido em **HTML, CSS e JavaScript puro**, simulando um sistema de
 
 ---
 
-## 🧠 Como o sistema funciona
+## Como o sistema funciona
 
 O sistema armazena os veículos em um array JavaScript e registra automaticamente:
 - Data de entrada
