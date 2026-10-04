@@ -42,4 +42,4 @@ When a vehicle is retrieved, the system:
 
 ## Project Interface
 
-<img width="1438" height="1182" alt="Parking management interface" src="https://github.com/user-attachments/assets/b879099b-2346-4b4a-806f-15c776d21708" />
+<img width="1438" height="1182" alt="Parking management interface" src="interface.png" />
